@@ -1,6 +1,6 @@
 # Benyamin Ahmed :sunglasses: :sparkles:
 
-## Hello and welcome to my world.
+**Hello and welcome to my world.**
 
 Here you will find various projects that I have been working on. As you can see from my profile pic I am still at school :school:. Apart from coding :computer: I also love swimming :swimmer: and taekwondo :facepunch:.
 
