@@ -9,4 +9,6 @@ Follow me on my YouTube channel :movie_camera: [BenoniChannel](https://youtube.c
 You can also catch me on [Codewars](https://www.codewars.com/users/benyaminahmed) where I am currently playing around with JavaScript. :sunglasses: 
 
 Stay safe and keep on coding! :mask:
+
+__P.S For those of you who are curious, I can't eat :pig: and my favourite animal is a :tiger:!__
 ## Let's build some cool :shit: 
