@@ -1,4 +1,4 @@
-# Benyamin Ahmed :sunglasses: :sparkles:
+# Benyamin Ahmed :sparkles:
 
 **Hello and welcome to my world.**
 
@@ -6,6 +6,6 @@ Here you will find various projects that I have been working on. As you can see 
 
 Follow me on my YouTube channel :movie_camera: [BenoniChannel](https://youtube.com/c/BenoniChannel) where you will find me pushing stuff about coding, memes and life.
 
-You can also catch me on [Codewars](https://www.codewars.com/users/benyaminahmed) where I am currently playing around with JavaScript:exclamation:
+You can also catch me on [Codewars](https://www.codewars.com/users/benyaminahmed) where I am currently playing around with JavaScript. :sunglasses: 
 
 ## Let's build some cool :shit: 
