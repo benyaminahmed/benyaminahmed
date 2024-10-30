@@ -2,6 +2,6 @@
 
 **Hello and welcome to my GitHub.**
 
-Here you will find various projects that I have been working on. As you can see from my profile pic I am still at school :school:. Apart from coding :computer: I also love swimming :swimmer: and taekwondo :facepunch:.
+Here you will find various projects that I have been working on - I am 15 years old and still at school.
 
 Check out my [socials](https://linktr.ee/ObiWanBenoni).
